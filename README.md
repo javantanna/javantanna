@@ -1,4 +1,1 @@
-![Hello]([https://github.com/javantanna/javantanna/blob/main/banner])
-
-
-
+![Your GitHub Banner](https://raw.githubusercontent.com/javantanna/javantanna/main/banner)
