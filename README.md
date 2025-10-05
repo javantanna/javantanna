@@ -7,8 +7,7 @@
 Hey! I'm javan tanna 22 y/o AI nerd from **Ahmedabad, India**.  
 I code things that **blow up computers** (just kidding… kinda).
 
-Trying to code like zuck..
-
+Chasing Zuck level code 
 
 I build agentic LLM pipelines, craft AI that thinks, plans, and acts, and make machines do stuff I don’t wanna do—because, let’s be honest, I’m lazy.
 
