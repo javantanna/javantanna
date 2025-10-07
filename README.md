@@ -26,7 +26,7 @@ Follow along to stay in the loop :)
 
 
 ##  Links
-[LinkedIn](https://www.linkedin.com/in/javantanna/)  | [Twitter (not used to X)](https://x.com/Javan_tanna) 
+[LinkedIn](https://www.linkedin.com/in/javantanna/)  | [Twitter (not used to X)](https://x.com/Javan_tanna) | [Leetcode](https://leetcode.com/u/javantanna/)
 
 
 
