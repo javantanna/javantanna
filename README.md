@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/javantanna/javantanna/main/banner)
+![banner](https://raw.githubusercontent.com/javantanna/javantanna/main/banner.jpg)
 
 
 ## About Me
