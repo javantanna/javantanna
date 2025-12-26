@@ -7,8 +7,12 @@
 Hey! I'm javan tanna 22 y/o from **Ahmedabad, India**.  
 
 
-I like clean code, tight logic, obsessed with algorithms.\n
-when I Lock in at night.\n
+I like clean code, tight logic
+
+obsessed with algorithms.
+
+when I Lock in at night.
+
 By morning, there’s an MVP.
 
 
